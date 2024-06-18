@@ -12,6 +12,7 @@ On MacOS, this can be done as follows:
 
     sudo /usr/bin/easy_install boto3
 
+
 Then clone the repository `postgres-aws-s3`:
 
     git clone git@github.com:chimpler/postgres-aws-s3
